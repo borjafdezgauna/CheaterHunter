@@ -1,0 +1,38 @@
+20/11/2017:
+Como primer día con el proyecto, ha sido una toma de contacto. Intentando recordar el uso del 'for' y familiarizandonos con él, ya que hacía un par de laboratorios que no lo utilizabamos. 
+Al igual que con el ciclo, hemos estado recordando cómo leer ficheros.
+23/11/2017
+Empezamos con la tarea 1, después de tener claros los conceptos de teoría, nos ponemos a escribir el script, hemos tenido algunas dificultades sobretodo a la hora de estructurar el programa
+ya que no teníamos claro cómo coger los datos por columnas y cómo utilizar los plots y los subplots.
+
+27/11/2017
+Tras ir a tutoría ese martes y centrarnos en ello conseguimos acabar la tarea 1, respecto a lo que se refiere al lenguaje de programación, pero utilizamos la clase para ultimar detalles 
+acerca de la imagen a la hora de que salga el programa por pantalla.
+      
+30/11/2017
+Comenzamos con la tarea número dos, en esta ocasión nos hemos confiado y hemos pensado que se haría igual que la tarea 1, sin embargo, había que utilizar dos 'for' por lo que nos surgen
+algunas complicaciones sobre cómo leer los ficheros y a la hora de graficar, nos han salido mal las gráficas ya que hemos leído los archivos al revés.
+Tras conseguir que se grafiquen correctamente, hemos tenido problemas a la hora de hacer los cálculos requeridos.
+
+4/12/2017:
+Hemos conseguido que cuadrasen todos los cálculos y que saliese todo por pantalla debidamente. Tras finalizar la parte 2, hemos empezado por la tercera tarea, como teníamos el fichero
+menuppal ha sido sencillo, solo hemos tenido que llamar a los apartados correspondientes del programa e introducir la orden 'pause' para que después de pulsar una tecla saliese de nuevo el
+menú y configurar la salida del programa. 
+Al llevarnos esto poco tiempo, hemos comenzado con la tarea 4, haciendo las funciones más sencillas y pegándonos con la primera función.
+
+11/12/2017:
+Durante el puente hemos estado tratando sacar la función de interpolar, ya que encontramos una ya dada por MATLAB, pero no era válida para el proyecto. Después de varias dudas y preguntas,
+junto con Pablo hemos conseguido sacar la función y poder continuar con el proyecto.
+
+14/12/2017:
+Una vez hallada la función de interpolación, nos hemos puesto con la de estimar el tiempo, aunque de nuevo hemos tenido varios problemas que no hemos sabido solucionar y nos hemos vuelto
+a quedar atascadas.
+
+18/12/2017:
+Durante el fin de semana hemos hallado el script requerido en el último apartado de la tarea 4, al seguir atascadas en esa parte del proyecto, hemos intentado avanzar en la tarea 5 y 6,
+aunque solo hemos conseguido sacar unas de las funciones del apartado 6.
+En clase, hemos conseguido programar la funcion de estimar el tiempo y nos ha dado error por causa de un fallo en la función 4 de la tarea 4, ya que no habíamos tenido en cuenta qué 
+pasaba al llegar al último dato. 
+Una vez solucionado esto, hemos acabado el proyecto hasta la parte 4.
+
+

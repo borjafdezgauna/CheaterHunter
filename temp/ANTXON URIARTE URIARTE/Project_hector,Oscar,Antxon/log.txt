@@ -1,0 +1,35 @@
+2017/11/24: We have done the first Task completely and successfully 
+            and we have started the second task by doing the first part of it.
+
+2017/11/27: We have finished the second task and applied the legend to all the plots of the other day,
+            and also change the subplots to the asked ones.
+
+2017/12/01: We have started the third task by understanding the objectives and we only have left to substitute the results
+            by what we are asked to put and we have put notes to notice that when we have the results(plot,speed limits...)
+            we have tu put there. Also, we have started the task 4 but with problems with the interpolation, so we have done
+            only the magnitude change.
+
+2017/12/04: We have corrected the firs exercise putting together by using subplots and then we have finished the third task and
+            we have put the first and the second plots there and we hope to put more while we are finishing the following activities.
+            Also we have done the first three parts of the task 4.
+
+2017/12/11: We have tried the fourth part of the fourth task without success, so we have started with the fifth part. We hope to
+           understand the fourth part the next day so we can finish the fourth part as fast as possible.
+
+2017/12/16: The last day(2017/12/15) we tried to completely undderstand how to interpolate, because, even we understand the general idea, 
+            we didn´t know how to programm it. Also, we changed the fifth part of the fourth task, putting "sprintf"(Sprintf today). Today, we have met to
+            finish the task four(fourth and sixth part) because we were told that we should finish it for the tuesday. So we have done it, by completing 
+            it succesfully by changing also the other parts, to adapt them to the final result, so this would be okay. Also, we have implemented it in the 
+            third task and we hope to do the fifth task before the exam. 
+
+2017/12/18: Today we have started the task 5, by doing the first part succesfully and we have also finished the 5.2 successfully. At first we have some
+            Problems with the 1st and the 2nd part, but we finally fix it and we obtain the correct results. We hope to finish the fifth task the next day
+            and to write the explanations the next day.
+
+2017/12/21: Today we have finished the task 5 by completing the 3rd part, and then by putting them inside the 3rd task. Also, we have put the explanations 
+            inside each task and subtask. 
+
+2017/12/22: Today we have started the task 6 by doing the first subtask and also, we have studied for the exam, reviewing the previous tasks
+
+2017/12/22 V2: When I reached home I realise that we hadn´t done standard variation and I wasn´t able to do it in the exam but when I reached home I have
+               done it to know how to do it even I haven´t done it in the exam.(Antxon)

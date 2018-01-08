@@ -1,0 +1,13 @@
+function estimatedTime=estimateTime(kms,speedKmH,numSlices)
+m=toMeters(kms);
+speedMS=toMetersPerSecond(speedKmH);
+z=kms(1);
+v=kms(end);
+w=(v-z)/numSlices;
+a=(z:w:(v-w));
+for i=1:numSlices
+b(i)=interpolateLinearly(kms,speedKmH,a(i)) ;
+end
+tiempo=a./b
+estimatedTime=sum(tiempo)
+end

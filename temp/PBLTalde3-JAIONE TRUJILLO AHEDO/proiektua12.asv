@@ -1,0 +1,12 @@
+B=dlmread('a1-height.csv',',',1,0);
+A=dlmread('n1-height.csv',',',1,0);
+H=mean(A(:,3));
+sd=std(A(:,3));
+Hrange=[min(A(:,3)),max(A(:,3))];
+H1=mean(B(:,4));
+sd1=std(B(:,4));
+Hrange1=[min(B(:,4)),max(B(:,4))];
+formatSpect='A1 specs=> Medium height=%2d meters (sd=%2d)';
+fprintf(formatSpect,H1,sd1);
+fprintf('Height range %2d',Hrange1);
+

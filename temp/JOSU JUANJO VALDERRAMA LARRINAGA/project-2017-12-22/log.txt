@@ -1,0 +1,13 @@
+22/12/2017
+
+We finally finished the whole task 4! 
+
+Task1: It was alredy finished but we added some comments to the code in order to make it easy to understand
+
+Task2: Same as task 1
+
+Task3: Same as previous tasks. We also finished the 'Press any key to continue' part that we didn't do the first time we uploaded it.
+
+Task4: We started last Friday working on it and after having many problems, especially with 4.4, we finished it yesterday.
+
+Finally, we have created a folder which contains all the tasks together so that it is easier to find all the correct work we have done.

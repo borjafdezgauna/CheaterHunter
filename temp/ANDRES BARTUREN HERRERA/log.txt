@@ -1,0 +1,44 @@
+2017/11/20
+First we have done task1.It only plots 1 graph. 
+we got it to work by changing the position of the subplots.
+
+2017/11/21
+Task 2 seems easy but we havent had time to finish it.
+
+2017/11/27
+we have finished task 2 and started to create the files for task 3.
+
+2017/11/28
+we have started task 4 and left task 3 for later(as it is a menu).
+
+2017/12/05
+We are very close to getting task 4 to work. 
+We have nearly finished Task 3.
+
+2017/12/12
+We checked and task 1 had a problem when saving the png, it's ok now.
+We have also found a problem in task 2 which we havent been able to solve yet.
+Still working on the estimatetime function.
+
+
+2017/12/18
+Can't get task2 to work but we have finished the estimatetime function and the toHMS in task4.
+we just have to finish task4
+
+2017/12/19
+We have fixed Task 2 and it's now fully working. We have started to work on Task 5 while we try 
+to fix the final script in task4.(we don't know why its plotting incorrectly)
+
+2017/12/20
+We have finally got task4 working!!! And task5 seems to be going well. The sad part is that 
+we don't have time to do task6. :(
+
+2017/12/21
+We have finished task5 and therefore, all we have time to do.
+We have also fixed Task3 by changing the while and some other things.(We have made some changes 
+to the names of the files and some directories so that the 
+mainMenu can open the scripts.)
+Also fix the problem in Task1(we used to see complex numbers).
+
+
+Hope everything works, have a nice day!! ;)

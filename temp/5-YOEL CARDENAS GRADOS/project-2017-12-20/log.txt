@@ -1,0 +1,42 @@
+Dia 04-12-2017:
+Nos hemos puesto definitivamente con el proyecto.
+Tarea 1: Hemos conseguido que nos funcione la primera tarea, pero no hay manera de que las gráficas nos salgan en una sola gráfica ya que no conseguimos utilizar correctamente los subplots.
+Mañana iremos a preguntar en tutorías a Pablo.
+PD: Tampoco sabemos como añadir los archivos .png
+
+Dia 05-12-2017:
+Hemos ido a tutorías y hemos conseguido resolver el problema respecto a los subplots ademas de saber como añadir los archivos .png con el saveas.
+A pesar de resolver todas nuestras dudas, nos hemos dado cuenta que había que utilizar for para resolver las tareas, por lo que repetiremos toda la tarea
+
+Dia 07-12-2017:
+Estamos intentando rehacer la tarea con el for, sin éxito. Le mandamos un correo a Pablo a ver si nos puede ayudar.
+
+Dia 08-12-2017:
+Hemos recibido la respuesta de Pablo diciéndonos que no era una función, por lo que hemos corregido dicho error, pero nos sigue sin salir la tarea. Continuaremos en los  próximos días
+
+Dia 11-12-2017:
+Hemos tenido clase con Pablo y le hemos enseñado nuestro script. Nos ha corregido una errata que teníamos con el for. Ademas, al rehacer la tarea con el for, nos hemos dado cuenta que las gráficas nos salen en el mismo color, cosa que no nos pasaba sin el for. Le preguntamos a Pablo pero nos ha dicho que no le diésemos importancia ya que podía ser un problema del propio octave.
+Comenzamos la tarea numero 2. Llegamos al resultado pero con un único error: las gráficas no sabemos si son las correctas
+Además, comenzamos con la tarea numero 3, hemos conseguido crear el main menú con el case 1 y con el case 2 pero tenemos una duda ya que no sabemos si hay que pegar el programa completo o hay otro método para importar el programa, por lo que mañana acudiremos a Pablo en tutorías.
+
+Dia 12-12-2017:
+Hemos ido a tutorías y nos ha explicado como deben de ser las gráficas y como importar el programa en el menú de la tarea numero 3.
+También le hemos preguntado como hay que hacer el case 4 y 5 ya que todavía no tenemos información suficiente para realizarlos y lo hemos solucionado con un disp.
+
+Dia 13-12-2017:
+Hemos comenzado con la tarea 4 y teníamos duda con el apartado 4. A pesar de hacer intentos y mas intentos, no hay forma de que solucionemos el problema. Aprovechando que mañana tenemos clase de informática con Pablo de 8 a 10 intentaremos resolver nuestras dudas
+
+Dia 14-12-2017:
+Hoy hemos ido a clase y le hemos preguntado a Pablo sobre la tarea 4, nos ha explicado porqué lo estábamos haciendo incorrectamente, y tras darnos una serie de pistas, creemos haberlo solucionado. Continuaremos finalizando dicha tarea y revisando las anteriormente realizadas de cara al examen
+
+Dia 16-12-2017:
+A pesar de las indicaciones que nos dio Pablo, somos incapaces de hacer funcionar en su totalidad la tarea 4, por ello le hemos mandado un email pidiendo ayuda. Como estábamos en un estado de bloqueo a la espera de que Pablo nos pueda ayudar con dicho problema, continuamos adelantando en medida de lo que fuera posible la siguiente tarea (tarea 5).
+
+Dia 18-12-2017:
+Hoy hemos tenido clase con Pablo y le hemos preguntado sobre la tarea 5 ya que tenemos un error en la función interpolated to the left. Nos ha explicado como debíamos hacerlo ya que no la teníamos bien hecha. Además hemos ido avanzando con la tarea 6, ya que los primeros puntos son relativamente sencillos.
+
+Dia 19-12-2017: 
+Seguimos teniendo colgadas varias tareas, (estimatetime, interpolatedlineraly, interpolatedtotheleft). Hemos ido a tutorías de tal forma que aprovechábamos para preguntar sobre nuestras dudas personales con el examen. Seguimos intentándolo sin éxito, mañana lo intentaremos de nuevo
+
+Dia 20-12-2017:
+Al fin, tras mucho esfuerzo y sudor, hemos conseguido que nos funcione el interpolatedlinearly sin problemas.

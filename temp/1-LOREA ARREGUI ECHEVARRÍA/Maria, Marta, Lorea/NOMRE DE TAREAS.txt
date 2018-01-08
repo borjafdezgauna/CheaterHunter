@@ -1,0 +1,13 @@
+ASI ES COMO HEMOS LLAMADO A LAS TAREAS
+
+
+Tarea1 = Tarea1
+Tarea2= t2
+Tarea3=Parte3
+Tarea 4
+	interpolateLinearly
+	 toMeters
+	 toMetersPerSecond
+	 estimateTime
+	 toHMS
+	 ej46

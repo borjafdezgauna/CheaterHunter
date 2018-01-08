@@ -1,0 +1,2 @@
+28/11/2017 Grupo Nestor, Kirill, Waffa.
+En el ejercicico 2_1 no me funciona el mean en una ocasion. Crear mis media y mi sd. Dificultad de comprension de la tarea 3, lo hemos realizado el apartado del tiempo con mucha dificultad sobretodo conceptual y de forma muy larga, as que habrá que buscar otra forma más corta de realizarlo.

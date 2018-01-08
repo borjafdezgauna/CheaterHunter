@@ -1,0 +1,22 @@
+2017-11-20:
+Tasks 1, 2, 3: We started working on them, posing the first commands, but in a paper, because we haven´t got the laptop at class.
+
+2017-11-24:
+Task 1: We have completed the script of task 1, it works properly, the only thing remaining is to make it a function, so we can read and plot the resuslts with loops. 
+
+2017-11-30:
+Task 1: Tried to finish it using a for that calls a function (called 'task11') that reads and makes the plots and the information of each route, but I have problems using the 'hold on' comand so it does not errase the plots of the second route.
+        The way the function displays the information is also a little bit messy.
+
+2017-12-01:
+Task 1: We have finished the script, it wasn't necessary to make a function to complete the task, so we lost some vauable time during this week, anyways, we have finally completed it.
+Task 2: As it was similar to Task 1, we reused all the code that we already had, changing some of the variables, and thanks to that we were able to finish in the same class, Task 2.
+
+2017-12-04:
+Task 1: Finished.
+Task 2: Finished.
+Task 3: Today we have been working on this task and we have finished it, the mainMenu is done with the data informations, loops properly done and the "Press any key to continue" function.
+Task 4. we have just started a little working on the "interpolateLinearly" function, it works, but 2 of the results to check the correctness of the function dont match, we have to work on it.
+
+2017-12-15:
+Task 4: We have finished the 'estimateTime' function and it works and we also did the fucntion 'toHMS'.

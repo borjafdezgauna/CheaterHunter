@@ -1,0 +1,19 @@
+2017/11/24
+1.Atazaren lehengo zatia bukatuta
+  bigarren zatia hasita eta prozedura pentsatuta
+2017/11/27
+1.ataza bukatu dugu, eta 2.ataza egiten hasi gara. 2. ataza bukatu eta hobeto behar dugu, baita zuzendu ere.
+2017/12/01
+1. eta 2. ataza bukatu ditugu jada, 3. eta 4. ataza martxan daude.
+2017/12/04
+3.ataza ia bukatuta. 4. atazaren lehengo hiru azpiatalak egin ditugu. 4. azpiatala egiten saiatu gara, baina nahiz eta irakasleen azalpena jaso,ez dakigu nola egin behar den.
+2017/12/11
+3. ataza bukatu dugu eta 4.5 azpiataza bukatuta. Faltan 4.4 eta 4.6
+2017/12/14
+3. ataza hobetu egin dugu, hainbat gauza hobetu ahal ziren eta.
+2017/12/15
+3. atazaean azalpenak jarri ditugu. InterpolatedLinearly funtzioa zuzendu dugu. 4. atazaren 4. eta 6. atalak bukatu berri ditugu.
+2017/12/18
+Ataza guztietan azalpenak jarri ditugu, egin duguna hobeto uler dadin.
+2017/12/21
+Ataza eta azpiataza guztiak errepasatu ditugu, zuzenketak eginez.

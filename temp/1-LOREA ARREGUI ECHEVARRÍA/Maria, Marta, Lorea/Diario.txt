@@ -1,0 +1,73 @@
+20-11-2017
+Empezamos el proyecto. 
+Leímos el proyecto en general, junto con las normas y los enunciados de las tareas y leímos más a fondo la tarea 1 para empezar a buscar información. Nos descargamos todos los archivos del e-gela para poder empezar a hacerlo. Cuando entendimos más o menos lo que teníamos que hacer, buscamos información en internet y los apuntes de clase. 
+
+
+ 23-11-2017
+Al no entender y tener dudas de como expresar nuestras ideas sobre el programa, tuvimos que preguntar al profesor como podíamos seguir.
+
+
+27-11-2017
+Seguimos con la tarea 1, nos daba problemas y no conseguíamos sacar como hacerlo.
+
+
+28-11-2017
+Fuimos a tutorías a preguntar todas las dudas que teníamos sobre el proyecto, y a aclarar las ideas sobre la tarea 1.  Teníamos un fallo al nombrar las variables, teníamos que poner lo que estaba dentro del xlabel e ylabel entre comillas simples. 
+
+
+29-11-2017
+Encontramos que el fallo nos estaba dando en el fprintf y al cambiarlo, nos dio el resultado que debía. Terminamos aquí la tarea 1.
+
+
+30-11-2017
+Al haber terminado la tarea 1, leímos la tarea 2 y nos pusimos a hacerla. Nos dimos cuenta de que esta era muy parecida a la tarea 1, por lo tanto, cogimos como plantilla la tarea 1 y buscando información fuimos completando la tarea 2.
+
+
+3-12-2017
+Quedamos para ir avanzando en la nueva tarea, y que fuese cogiendo forma. 
+
+
+4-12-2017
+La tarea 2 cada vez estaba mejor y nos daba menos problemas, aunque aun así nos daba algún que otro problema,  por lo tanto, fuimos a tutorías a corregir el error, al salir fuimos corrigiendo los errores y escribimos un e-mail para saber el error. 
+
+
+5-12-2017
+Pablo nos contesto que habíamos puesto el nombre de las columnas al revés, por lo tanto al leerlo cambiamos el error y conseguimos finalizar la tarea 2. 
+
+
+8-12-2017
+Leímos la tarea 3 y al ser el menú dedujimos que lo mejor era seguir haciendo el proyecto y cuando terminásemos el resto de tareas, hacer la tarea 3. 
+A través del ordenador nos pusimos en contacto y empezamos a leer e intentar hacer la tarea 4. 
+
+
+11-12-2017
+Fuimos a clase y al no tener  sitio, fuimos a otra clase y estuvimos haciendo el 4.1. Al no saber como hacerlo, fuimos a tutorías a que nos explicara como empezar. 
+
+
+14-12-2017
+En clase intentamos hacer el 4.1, pero al no saber hacerlo y para no perder el tiempo, pasamos a hacer el 4.2 (toMeters), el 4.3 (toMeterPerSecond) y empezamos a hacer el 4.5 (HH:MM:SS), pero este nos dio error.
+
+
+16-12-2017
+Estuvimos intentando sacar la función del 4.1, y leyendo en internet vimos que matlab tenia un función para interpolar linealmente, entonces utilizamos esa y "teníamos terminado el proyecto". Subimos el archivo zip con todos los documentos bien ordenados.
+
+
+18-12-2017
+Llegamos a clase, y enseñamos la forma de hacer la interpolación, pero se nos comunico que de esa manera no se podía hacer, por lo tanto, nos explico como se hacerlo de la forma correcta y lo plasmamos esa misma mañana. 
+En tutorías nos explico el error del 4.3 y el 4.4
+El 4.3 lo corregimos esa misma tarde, el error no era mas que pusimos min, en vez de mínimo y matlab nos lo cogía como la función que tiene programada, entonces solo tuvimos que cambiarle el nombre.
+El 4.4, y nos pusimos a hacerlo, este nos daba un error, y fuimos a preguntar, pero no estaba mal, solo que en el octave nos cogía el (end) de el ultimo kilometro como un end de la función. 
+Aquí terminamos el 4.3 y 4.4.
+
+
+19-12-2017
+Estuvimos leyendo el enunciado la tarea 4.6, como no entendíamos muy bien lo que pedía, fuimos a tutorias para aclarar las dudas y ponernos a ello en ese momento. Estuvimos intentando hacerlo.
+
+
+20-12-2017
+Al no haber acabado el 4.6, nos juntamos y terminamos de hacer ese ejercicio, le mandamos vía e-mail la tarea a Pablo para ver por que no daba error y mientras  esperábamos su respuesta, estuvimos haciendo la tarea 3, el menú.
+
+
+21-12-2017
+Terminamos la tarea 4.6, introdujimos la tarea en la numero 3, teniendo problemas al poner el comando de salir del prorgama y comprobamos que funcionaba todo el proyecto, nos dimos cuenta de que en la tarea 2, teniamos algun problema.
+

@@ -1,0 +1,53 @@
+Miembros del grupo:
+Jorge Aranzabal, Jon Pérez y Eneko Gutiérrez.
+
+22/11/2017
+Hemos trabajado en el script tarea_1. Nos hemos dado cuenta de que parte del ejercicio se debe hacer con for. Sin embargo, los plots no.
+Damos por casi finalizado la tarea_1 a falta de completar el código de los plots.
+
+29/11/2017
+Hemos terminado el script tarea_1, tarea_2  con el código ya optimizado a falta de comentarlo de manera adecuada. De igual manera, casi
+damos finalizado el menú. 
+
+04/12/2017
+Hemos finalizado el menu a falta de realizar los comentarios informativos y las funciones que aun quedan por realizar. En cuanto al codigo
+esta completamente optimizado bajo nuestro punto de vista.
+
+11/12/2017
+Hemos comenzado con la tarea 4, y solo hemos conseguido la parte 2 y 3, la parte 1 nos da varios errores.
+
+13/12/2017
+Hemos terminado por completo la tarea 4.1 y nos hemos dedicado de lleno a la 4.4, la cual no hemos terminado.
+En la 4.1 al principio nos daba errores con las condiciones que probamos los anteriores dias, y ahora al haberlas cambiado y planteado el while de otro modo no nos ha dado problemas.
+
+13/12/2017
+Una vez visto y entendido que a la hora de calcular el tiempo estimado variará el vector x dependiendo del valor de i, hemos calculado todas las velocidades en cada punto del eje x.
+Una vez que logramos todas esas velocidades, realizamos otra función para calcular el tiempo. Como sabemos que el tiempo es igual al espacion partido de la velocidad, cada porción la dividiremos por la velocidad en el punto que se esta calculando y sumandole el tiempo anterior, es decir, una suma acumulada. De esta forma, logramos el tiempo total que tardamos en recorrer toda la distancia.
+
+Además, hemos comenzado el ejercicio en el que tenemos que convertir un tiempo cualquiera (que en el siguiente caso será el tiempo que le cueste a cada conductor realizar cada ruta) y convertirlo en un formato especifico (xx:xx:xx) que sera mediante un "sprintf" debido a que utilizamos numeros y caracteres a la vez. Para lograr los valores de esa forma, necesitamos la parte entera y utilizamos "fix" y "rem" para coger únicamente el resto de la división. Como dato importante, para sacar por pantalla dos dígitos ponemos detras del porcentaje un 0 para que rellene por delante y después el número de dígitos que queremos poner (en este caso 2).
+
+También como nos comentó el profesorado que teníamos que ser mas explicativos en el LOG, decidimos explicar mas detenidamente todo lo que hicimos antes de hacer la parte de interpolación, estimación del tiempo y de sacar el tiempo en un formato específico.
+
+18/12/2017
+	TAREA 1:
+En esta tarea por un lado teniamos que mirar la altura en cada punto de cada ruta y los diferentes caminos de cada ruta con latitud y longitud. Primero generemos un vector de caracteres para luego mediante un patron cambiar y poder leer los ficheros de las diferentes carreteras. Para leerlos, utilizamos un "for" debido a que se repetía dos veces la lectura de ficheros y también tuvimos que poner que nos empiece a leer desde la segunda línea porque en la primera, los ficheros, eran caracteres. Cuando sacamos por pantalla las gráficas, utilizamos "hold on" para que al realizar la segunda vuelta del "for" se queden guardadas las anteriores y de esta forma no se sobreescriben. Al final del script, guardamos lo que hemos sacado por pantalla con la función "saveas" en un único archivo con la extensión que queramos.
+
+Para ser más creativos, decidimos cambiar los colores predeterminados (azul y rojo) a otros más llamativos. Para ello, asignamos los colores a la variable "color" y que esta varíe según lo hace "i".
+
+	TAREA 2:
+En esta tarea tenemos que visualizar mendiante dos gráficas cada conductor en comparación al otro conductor a que velocidades van por cada ruta. Para ello primero, debemos leer los ficheros por medio de un patrón ya que varían caracteres puntuales de los nombres de los ficheros. En este caso debido a que utilizamos las mismas columnas de datos de la matriz que generemos, tenemos que convertir la posición del "subplot" como una variable para que vaya cambiandose la salida por pantalla de las gráficas. Igual que en la anterior tarea, utilizaremos la función "hold on" y los colores cambiaran en función de "i"
+
+	TAREA 3:
+En esta tarea, tenemos que generar un menu para poder ejecutar lo que quisieramos. Antes de todo tenemos que formar un menu y para ello mediante la función "for" nuestra variable "i" recorrera todo el vector en el que tenemos todas las diferentes opciones del menu, además de un "input" para poder elegir la opción que al usuario le apetezca. Obviamente, en simulación real un usuario por equivocación puede meter una cadena vacia, una letra o un número que no este dentro del intervalo para poder elegir alguna opción, por lo que generamos un código de errores indicando un mensaje de aviso al usuario.
+
+Después de ello, el usuario tendra que esperar 3 segundos y cuando pasen esos 3 segundos, llamamos al script del menu para que se vuelva a ejecutar desde el principio hasta que el usuario introduzca un numero entre 1 y 6. Cuando lo introduzca correctamente, entrara dentro de un bucle del cual solo puede salir mediante un 6. Como dato importante e interesante, después de que se ejecute una opción hemos utilizado la funcion "pause" sin segundos para que el usuario cierre lo ejecutado y vuelva al menu. Además dentro del bucle para poder revisar cada vez que se pida un número si es correcto o no, hemos metido de nuevo el código de errores mas simplificado.
+
+	TAREA 4:
+A pesar de que ya hemos resumido lo que hicimos en la tarea 4, después con los propios datos del proyecto tuvimos que juntar todas las funciones generadas en la tarea 4. Primero tuvimos que leer los ficheros tantas veces como conductores por ruta (es decir 4 veces). Una vez hecha la lectura de datos, llamamos a la funcion de interpolación para poder sacar la velocidad en cada 10000 trozos de distancia. De esta forma logramos sacar la velocidad en varios puntos para poder sacar el tiempo que lleva el conductor en cada punto de la ruta y asi lograr una suma de todo el tiempo. 
+
+Como dato para comentar, al principio nos daba el tiempo infinito debido a que la primera velocidad al ser 0 y dividirlo entre un valor numerico, nos hacia un calculo con resultado infinito y en consecuencia nos daba mal el tiempo. Arreglado este problema llamamos a la funcion para que nos convierta esos segundos en "horas:minutos:segundos" y por último hacer un "sprintf" para sacar por pantalla datos de manera informativa y con el tiempo que le costaba a cada conductor realizar cada ruta.
+
+
+
+
+

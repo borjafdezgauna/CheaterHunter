@@ -1,0 +1,43 @@
+Build 0.1 (21/11/2017)
+
+	-Task 1 and 2 done, they will be further improved since all of the instructions are very repetitive and need to be compressed using loops.
+	
+Build 0.25 (27/11/2017)
+
+	-Task 3 done, but again the code in task 1 and task 2 need further compression, but everything works.
+	
+Build 0.3 (28/11/2017)
+
+	-Task 4 half done, we're writing the time estimating fucntion, it isn't working yet.
+	
+Build 0.3.0.599 (28/11/2017 (18:45pm))
+
+	-Task 4 further improved, we're now at part 4.6 and closer to getting 4.4 functional.
+	
+Build 0.4.666 (4/12/2017)
+
+	-Task 4 completed, all tasks (scripts and functions) have been properly reviewed and compressed with loops.
+	
+	-Task 1, 2 and 3 have been propperly commented, they are 100% complete.
+	 
+	-Task 4 still needs comments and organization.
+	
+Build 0.5.420 (5/12/2017)
+
+	-We started work on task 5, it is half finished, the last function still needs work.
+	
+Build 0.999.9 Pre-Release Developer Snapshot (13/12/2017)
+
+	-All the tasks have been done, and all of them are working, but they still need commenting and further optimizations.
+	
+Build 1.0.420.1337.69 Public Release (18/12/2017)
+
+	-The project is now 100% finished, all functions are working and all of them are commented.
+	
+Build 1.1 Hotfix, winter patch (19/12/2017)
+
+	- Fixed some errors and comments, now IT IS 100% functional :)
+	
+Build 1.2 (22/12/2017)
+
+	- Fixed some little bugs

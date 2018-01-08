@@ -1,0 +1,1 @@
+for ruta= {'n1','a1'} for i=1:2     f=sprintf ('%s-driver%d-log.csv', ruta{1},i);    disp(f)    M=dlmread(f,',',1,0);    %Separamos cada columna del fichero    KM=M(:,1);    KMH=M(:,2);   a=length(M);   Media_Velocidad=mean (KMH);   distancia=M(a,1)      TIEMPOHORAS=distancia/Media_Velocidad   %usar numSlices= 1000       endend

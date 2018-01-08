@@ -1,0 +1,37 @@
+-21 11 2017-
+
+####We started with task 1. It didn't work at first. Then we tried to use ifs and realised that it wasn't working either. Finally, we managed to plot every columns from the file. Now, we have to discretize each axis in different variables to plot just height on the Y ax and distance on the X axis.
+
+
+-28 11 2017-
+
+####Task 1 completed, and 1st part from the 2nd.Had problems with plotting and loops. We used sprintf and accumulators to fix errors.
+
+
+-04 12 2017-
+
+####We finished the 2nd task and everything we could from the 3rd. We also integrated the menu in the tasks 1 and 2.
+
+
+-05 12 2017-
+####We completed all the functions from the 4th task but the estimate_Time.
+
+
+-11 12 2017-
+####We've been working on the estimate_Time function, but we got stuck in the end. 
+
+
+-12 12 2017-
+####We completed estimate_Time function, started the 5th task and made comments for the previous exercises. We also fixed the menu and interpolate_Linearly function.
+
+
+-18 12 2017-
+####The work we did this morning was lost because we did not save it in egela. But we wiped our tears from our faces and managed to complete the 4th task, the interpolateToTheLeft function, fix the menu and give a look to the checkSpeedsLimits function. We plan to finish everything but the 6th tomorrow.
+
+
+-19 12 2017-
+####Completed every task before the 5th. The functions from the 5th are all finished.
+
+
+-21 12 2017-
+####We are working on the 2 extra tasks, with the mandatory ones fully working. 

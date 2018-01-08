@@ -1,0 +1,27 @@
+M=dlmread('a1-driver1-log.csv',',',0,0);
+distancia=M(:,1);
+velocidad=M(:,2);
+M=dlmread('n1-driver1-log.csv',',',0,0);
+d=N(:,1);
+v=N(:,2);
+subplot(1,2,1);
+hold on;
+plot(distancia,velocidad,'b');
+plot(d,v,'y');
+title('velocidad respecto distancia (conductor 1)');
+xlabel('distancia');
+ylabel('velocidad');
+X=dlmread('a1-driver2-log.csv',',',0,0);
+dis=X(:,1);
+vel=X(:,2);
+Y=dlmread('n1-driver2-log,csv',',',0,0);
+dist=Y(:,1);
+velo=Y(:,2);
+subplot(1,2,2);
+hold on;
+plot(dis,vel,'b');
+plot(dist,velo,'y');
+title('velocidad respecto distancia (conductor 2)');
+xlabel('distancia');
+ylabel('velocidad');
+

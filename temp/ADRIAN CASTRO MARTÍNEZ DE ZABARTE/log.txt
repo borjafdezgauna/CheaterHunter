@@ -1,0 +1,29 @@
+20-11-2017
+Task 1: We started working on 'Task 1', but we haven't finished yet.
+
+24-11-2017
+Task 1: We finished 'Task 1' and it works.
+Task 2: We started working on 'Task 2', but we haven't finished yet.
+
+27-11-2017
+Task 2: We finished 'Task 2' and it works.
+Task 3: We started working on it, but we haven't finished yet.
+
+01-12-2017
+Task 3: We finished 'Task3' and it works.
+
+04-12-2017
+Task 4: We started working on 'Task4', but we haven't finished yet.
+
+11-12-2017
+Task 4: We continue working on 'Task4'.
+
+15-12-2017
+Task 4: We are stucked on 'estimatedTime' of 'Task4'.
+Task 6: We started working on it.
+
+22-12-2017
+Task 4: Finished.
+Task 6: We have some files.
+
+

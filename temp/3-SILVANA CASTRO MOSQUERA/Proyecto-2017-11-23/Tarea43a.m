@@ -1,0 +1,1 @@
+[msSpeed] = toMetersPerSecond(15)

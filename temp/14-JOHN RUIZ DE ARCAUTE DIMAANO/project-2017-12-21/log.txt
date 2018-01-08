@@ -1,0 +1,60 @@
+Querido diario (informático):
+
+2017-11-23
+Comenzamos a realizar el proyecto con la tarea 1.
+Nos surgieron ciertas dudas que Pablo nos las resolvió adecuadamente.
+Tuvimos problemas a la hora de leer los ficheros.
+
+2017-11-27
+Conseguimos graficar los ficheros con sus respectivas indicaciones.
+Terminamos la primera tarea y comenzamos con la segunda tarea.
+Se observa que tiene un cierto parecido con la primera tarea.
+
+2017-11-30
+Problemas con la estructuración del "for".
+
+2017-12-04
+En clase Pablo nos resolvió la duda del "for".
+Graficamos y capturamos las tareas 1 y 2.(route-elevations.png y route-speed.png respectivamente)
+
+2017-12-11
+Comenzamos las tarea 3 con algunos problemas de procedimiento que conseguimos resolver en esa misma clase.
+No sabíamos como hacer que saliera del programa poniendo la opción número 6.
+Solución: While ~= 6
+
+2017-12-12
+Nos veíamos un poco apurados y decidimos quedar para comenzar la tarea 4.
+Comenzamos con las funciones relativamente fáciles(toMeters, toMetersPerSecond)
+Empezamos a realizar la función InterpolateLinearly.
+
+2017-12-14
+Terminamos la función InterpolateLinearly tras unos probleas surgidos con el "While" que Pablo nos solucionó.
+Después de un rato pensando, conseguimos estructurar y terminar la función toHMS.
+
+2017-12-15
+Comenzamos con la función estimateTime. Y tras algunos problemas con el numSlices, conseguimos terminar la funcion. (n=m(end)/numSlices)
+
+2017-12-18
+Comenzamos con la tarea 4.6(tiempo estimado de cada conductor en realizar cada ruta).
+Terminamos la tarea pero al ejecutarla el resultado nos daba infinto dado que la velocidad inicial era 0, en la función
+estimateTime.(tiempo=tiempo+(n/v))
+
+2017-12-19
+Conseguimos solventar el anterior problema con un "If" en la función estimateTime.(if v ~=0)
+Se realizaron unos retoques en las anteriores tareas con el objetivo de ordenarlas.
+
+2017-12-20
+Últimos retoques a las funciones antes de entregar el proyecto.
+
+
+2017-12-21
+Corregimos el problema con la grafica de la tarea 2, añadimos los comentarios de las explicaciones a los scripts y corregimos unos errorres 
+puntuales que nos surgieron en el momento.
+Por falta de tiempo, nos ha sido imposible finalzar el proyecto. Aún así, estamos contentos con el trabajo realizado
+y con la afable ayuda de Pablo.
+
+Un cordial saludo.
+
+German Romero
+John Ruiz de Arcaute
+"Aitor Salazar"

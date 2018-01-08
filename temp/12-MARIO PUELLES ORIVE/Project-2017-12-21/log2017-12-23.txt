@@ -1,0 +1,31 @@
+2017-11-23
+- Tarea 1: Hemos empezado a trabajar con el proyecto hasta lograr terminar la tarea 1, en la cual hemos aprendido a leer un fichero mediante 'dlmread'.
+También hemos aprendido como generar varias gráficas en un ventana ('plot', 'subplot', 'hold on','title', 'xlabel',...)
+Utilizamos saveas para generar imagen en formato png. Así como diferentes comandos para calcular media, maximos, desviación, etc. 
+(Tarea 1 FINALIZADA)
+
+2017-11-27
+- Tarea 2: Comenzamos tarea 2. Para ello creamos función para leer valores de los cuatro ficheros. Esta función se llama 'leervalores' y la llamamos desde nuestro script 'tarea2.m' cuando necesitamos obtener los valores de un conductor.
+En dicha función, tambien hemos realizado las operaciones necesarias y utilizamos fprintf para que nos diga los datos cuando llamemos a la función.
+De esta manera el script 'tarea2.m' queda sencillo, simplemente llamando a las funciones y generando gráficas como ya aprendimos en la tarea 1.
+
+2017-12-06
+- Tarea 2: Ediatamos en ella pequeños fallos, que nos permiten simplificar el programa y que se utilice mejor la función 'leervalores'.
+
+- Tarea 4: Comenzamos con la tarea 4 y para ello volvemos a utilizar funciones que nos permiten leer los valores de los ficheros externos. 'leervalores' 'leervalores4'.
+También utilizamos funciones para pasar a diferentes unidades 'toMeters', 'toMetersPerSecond', 'toHMS'.
+Trabajamos con las funciones de interpolación 'interpolateLinearly', 'estimateTime'.
+
+2017-12-11
+- Tarea 4: Acabamos de perfeccionar las funciones de interpolación de la tarea 4.
+
+2017-12-14
+- Tarea 5: Empezamos con la tarea 5 por diseñar las nuevas funciones 'interpolateToTheLeft', 'leervalores5'. La novedad en esta tarea es los limites de velocidad y la integración de intervalos.
+
+2017-12-18
+- Tarea 5: Finalizamos la tarea 5 mediante utilizando también las funciones 'risk' y 'checkSpeedLimit'. En las cuales realizamos una comparación entre los limites de velocidad y las velocidades que llevan los conductores, etc.
+
+2017-12-21
+-Tarea 5: Debido a picos en la gráfica de conductores hemos decidido cambiar elementos en la funcion 'interpolateLinearly'.
+
+ 

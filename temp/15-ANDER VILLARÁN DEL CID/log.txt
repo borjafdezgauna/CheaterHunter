@@ -1,0 +1,20 @@
+2017-11-24
+Hemos comenzado el proyecto con el ejercicio 1, hemos llegado a desarrollar la primera gráfica.
+
+2017-11-30
+Casi hemos terminado la tarea 1.
+
+2017-12-01
+Hemos terminado la tarea y hemos comenzado el primer apartado del 2.
+
+2017-12-11
+Hemos terminado la tarea 2 y hemos empezado la tarea 3.
+
+2017-12-14
+La tarea 3 (el mainmenu) se ha completado.
+
+2017-12-15
+Comenzamos la Tarea 4.
+
+2017-12-21
+La tarea 4 se ha completado con éxito.

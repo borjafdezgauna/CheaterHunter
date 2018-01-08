@@ -1,0 +1,10 @@
+Miembros del grupo:
+Jorge Aranzabal, Jon Pérez y Eneko Gutiérrez.
+
+22/11/2017
+Hemos trabajado en el script tarea_1. Nos hemos dado cuenta de que parte del ejercicio se debe hacer con for. Sin embargo, los plots no.
+Damos por casi finalizado la tarea_1 a falta de completar el código de los plots.
+
+29/11/2017
+Hemos terminado el script tarea_1, tarea_2  con el código ya optimizado a falta de comentarlo de manera adecuada. De igual manera, casi
+damos finalizado el menú. 

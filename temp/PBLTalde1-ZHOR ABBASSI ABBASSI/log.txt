@@ -1,0 +1,24 @@
+1.ATAZA:
+Gaur lehenego ataza egiten aritu gara.
+Lehenengo bi artxibo irakurtzen saiatu gara, artxiboko lehenengo ilara ez dugu irakurri, zeren txt. zen. Gero irakurtzeko for funtzioa erabili dugu errepikatzeko, zeren bi artxibo geneuzkan. Gero subplot bat saiatu dugu, baina ez digu funtzionatu.
+
+2017/11/30
+
+Gaur lehenengo ataza bukat dugu. Falta zitzaigun subplotak egin eta haien plotak egin ditugu. Grafikak gorde eta estadistikak egin dugu.
+Bigarren atazarekin hasi eta bukatu dugu. 
+
+2017/12/04
+
+1. eta 2.atazak emaitzak ondo bistaratu eta politak jarri ditugu. Gero, 3. ataza egiten hasi gara eta  ia ia bukatu dugu, bakarrik funtzio bat ondo osatzea falta zaigu.
+
+2017/12/14
+
+Aste honetan, 3. ataza bukatu dugu, eta astelehenean laugarren atazarekin hasi ginen. Gaur, laugarrena ia ia bukatu dugu, bakarrik laugarren eta seigarren puntua falta zaigu. 
+
+2017/12/19
+
+Lau ataza arte egin dugu, dena ondo jarrita eta menua ondo prestatu. Oraigoz dena ondo funtzionatzen du.Eta bosgarrenarekin hasi gara.
+
+2017-12-21
+
+Gaur dena errepasatu dugu ea ariketa guztiak ondo dauden ikusteko. 
