@@ -1,1 +1,0 @@
-function [ fuelExpenditure ] = calculateFuelExpenditure (v,a,theta,d);  f=(d*((0.00009*v)+((0.021*a)+(0.087*theta))^2))/(33);  fprintf ('%0.4f',f) end

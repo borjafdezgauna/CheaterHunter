@@ -1,5 +1,0 @@
-Trabajando en casa hemos conseguido terminar la tarea 5,
-los datos se acercan bastante a lo que debrían ser.
-
-En el último día que nos queda intentaremos solucionar el problema
-de la diferencia de minutos que nos da la tarea 4.

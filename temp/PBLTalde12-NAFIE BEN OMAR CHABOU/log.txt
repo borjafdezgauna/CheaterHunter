@@ -1,4 +1,0 @@
-ataza 1 eta ataza 2 zuzendu.
-ataza 4 zuzendu eta amaitu.
-ataza 3 amaitu.
-dena bukatu eta komentario geihago ipini dena ondo ulertzeko.

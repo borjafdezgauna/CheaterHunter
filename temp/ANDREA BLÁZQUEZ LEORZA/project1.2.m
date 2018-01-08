@@ -1,9 +1,0 @@
-%1.2.
-mean(y1)
-std(y1)
-min(y1)
-max(y1)
-mean(y2)
-std(y2)
-min(y2)
-max(y2)

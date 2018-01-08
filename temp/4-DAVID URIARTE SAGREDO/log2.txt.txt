@@ -1,2 +1,0 @@
-Te enviamos la grafica del apartado 1 de la tarea 1 porque en el primer fichero no pudimos incluirla ya que nos salia la gráfica en blanco porque no teníamos instalado el excel.
-Y en este fichero te enviamos el codigo y la grafica del apartado 1 de la tarea 2.

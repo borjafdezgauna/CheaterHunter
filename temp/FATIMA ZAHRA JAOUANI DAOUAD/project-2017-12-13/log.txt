@@ -1,5 +1,0 @@
-tarea1: ya funcionaba aunque he cambiado los datos de los ejes y ahora parecen más razonables.
-tarea2: ya funciona pero algunos valores de la estadística no coinciden con el archivo de egela y también he cambiado los parámetros de los ejes.
-tarea3: la semana pasada empecé a trabajar en el menú pero no entendía muy bien el objetivo, ahora está realizado a falta de terminar las demás tareas.
-tarea4: se han realizado casi todas las funciones aunque no sé si está bien y en la última parte todavía no sé calcular el numSlices.
-tarea6: terminado el primer ejercicio.

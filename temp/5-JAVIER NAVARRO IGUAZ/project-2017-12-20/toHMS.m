@@ -1,1 +1,0 @@
-function [ hms ] = toHMS( seconds )  hor1=seconds/3600; hor=fix (hor1); a=rem(seconds,3600); minuto1=a/60; minuto=fix (minuto1); b=rem(a,60); seg=fix(b); fprintf('\n%02d:%02d:%d\n',hor,minuto,seg)end    

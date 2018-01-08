@@ -1,1 +1,0 @@
-function [ msSpeed ] = toMetersPerSecond( speedKmH )msSpeed=speedKmH*10/36;end
