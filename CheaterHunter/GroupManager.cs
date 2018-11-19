@@ -133,12 +133,7 @@ namespace CheaterHunter
                 if (dir != null)
                 {
                     string zipFile = Program.GetLastVersionZip(dir, true);
-                    //if (zipFile == "")
-                    //{
-                    //    group.FilesCheckResult = false;
-                    //    group.FileCheckMessage = "Missing zip file or incorrect name/format";
-                    //    zipFile = Program.GetLastVersionZip(dir, false); //we try again not being so strict with the file names
-                    //}
+
                     if (zipFile != "")
                     {
                         try
@@ -157,14 +152,11 @@ namespace CheaterHunter
                                     group.FilesCheckResult = true;
                                     group.FileCheckMessage = "last version (" + Path.GetFileName(zipFile) + ") OK";
                                 }
-                                //everything seems correct
-                                //                                    outputFile.WriteLine("OK");
                                 else
                                 {
                                     group.FilesCheckResult = false;
                                     group.FileCheckMessage = "Could not find \"log.txt\" file inside " + Path.GetFileName(zipFile);
                                 }
-                                //                                    outputFile.WriteLine("could not find \"log.txt\" file inside the zip");
                             }
                         }
                         catch
