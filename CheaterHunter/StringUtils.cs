@@ -61,7 +61,7 @@ namespace CheaterHunter
         }
         public static string GroupFromName(string name)
         {
-            int scorePos = name.LastIndexOf('-');
+            int scorePos = name.IndexOf('-');
             int spacePos = name.IndexOf(' ');
 
             if (scorePos > 0 && (spacePos < 0 || spacePos > scorePos))
@@ -70,7 +70,7 @@ namespace CheaterHunter
         }
         public static string RemoveGroupFromName(string name)
         {
-            int scorePos = name.LastIndexOf('-');
+            int scorePos = name.IndexOf('-');
             int spacePos = name.IndexOf(' ');
 
             if (scorePos > 0 && (spacePos < 0 || spacePos > scorePos))
