@@ -5,7 +5,7 @@ using System.IO;
 
 namespace CheaterHunter
 {
-    class StructureSimilarityChecker: CodeComparer
+    public class StructureSimilarityChecker: CodeComparer
     {
         List<string> Output = new List<string>();
         List<string> Functions = new List<string>();
@@ -27,8 +27,16 @@ namespace CheaterHunter
             Functions.Add("y-label");
             Functions.Add("title");
             Functions.Add("set");
+            Functions.Add("linspace");
+            Functions.Add("sprintf");
+            Functions.Add("zeros");
+            Functions.Add("exist");
+            Functions.Add("fix");
+            Functions.Add("floor");
+            Functions.Add("rem");
             
-            Patterns.Add(@"for\s");
+            Patterns.Add(@"for\s*\w+\s*=\s*\w*:"); //for i=1:3
+            Patterns.Add(@"for\s*\w+\s*=\{[^\}]*\}"); //for filename={'lksjdf','ksjdklf'}
             Patterns.Add(@"clc");
             Patterns.Add(@"while\s");
             Patterns.Add(@"if\s");
@@ -38,12 +46,19 @@ namespace CheaterHunter
             Patterns.Add("hold on");
             Patterns.Add("hold off");
             Patterns.Add(@"(\w+)\s*=\s*\w+\([^\),]*\)");
-            Patterns.Add(@"(\w+)\s*=\s*\w+\(\s*\d+\s*,\s*:\s*\)");
-            Patterns.Add(@"(\w+)\s*=\s*\w+\(\s*:\s*,\s*\d+\s*\)");
-            Patterns.Add(@"(\w+)\s*=\s*\1\s*\+\s*1");
-            Patterns.Add(@"(\w+)\s*=\s*(\d+);");
+            Patterns.Add(@"\w+\s*=\s*\[[^\]]+\]"); //var = [1 2 3]
+            Patterns.Add(@"(\w+)\s*=\s*[^:\(]+:\s*"); //var = 1 : 3
+            Patterns.Add(@"(\w+)\s*=\s*\w+\(\s*:\s*,\s*\d+\s*\)"); //var= m(:,1)
+            Patterns.Add(@"(\w+)\s*=\s*\w+\(\s*\d+\s*,\s*:\s*\)"); //var= m(1,:)
+            Patterns.Add(@"(\w+)\s*=\s*\1\s*\+\s*1"); //var = var+1
+            Patterns.Add(@"(\w+)\s*=\s*\1\s*\+\s*"); //var= var + ....
+            Patterns.Add(@"(\w+)\s*\([^\)]*\)\s*=\s*\1"); //vector(i) = vector(i)+ ...
+            Patterns.Add(@"(\w+)\s*\([^\)]*\)\s*="); //vector(i) = ....
+            Patterns.Add(@"(\w+)\s*=\s*(\d+)");
+            Patterns.Add(@"(\w+)\s*=\s*\{[^\}]+\}");
+            Patterns.Add(@"(\w+)\s*=\s*'[^\']*'"); //var= 'akdjl'
         }
-        string AnalyzeCodeStructure(string srcCode)
+        public string AnalyzeCodeStructure(string srcCode)
         {
             string[] lines = srcCode.Split(new string[] 
             { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
@@ -52,6 +67,18 @@ namespace CheaterHunter
             foreach(string line in lines)
             {
                 bool Matched = false;
+                //remove comments
+                int commentIndex = line.IndexOf('%');
+                if (commentIndex == 0 || line.Length==0)
+                    Matched = true;
+
+                //check if line is empty after removing comments
+                int lineEnd = line.Length;
+                if (commentIndex > 0) lineEnd = commentIndex;
+                int i = 0;
+                while (i < lineEnd && line[i] == ' ') i++;
+                if (i == lineEnd) Matched = true;
+
                 //look for functions
                 int fIndex = 0;
                 string pattern;
@@ -79,6 +106,8 @@ namespace CheaterHunter
                     }
                     pIndex++;
                 }
+
+                if (!Matched) output += "u-"; //unmatched lines are given a generic id
             }
             return output;
         }
